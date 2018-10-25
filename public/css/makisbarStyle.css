@@ -1,0 +1,6 @@
+.makis-logo, .makis-logo a:hover, .makis-logo a, .makis-logo :hover {
+    font-family: 'Fredoka One' !important;
+    font-size: 250%;
+    color: white !important;
+    text-shadow: -2px 0 rosybrown, 0 2px rosybrown, 2px 0 rosybrown, 0 -2px rosybrown;
+}
