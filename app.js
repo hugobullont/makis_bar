@@ -11,6 +11,7 @@ app.use(bodyParser.urlencoded({ extended: true}));
 
 //Routes
 require('./routes/index.routes.js')(app);
+require('./routes/session.routes.js')(app);
 
 //Run server
 app.listen(3000, ()=> {
